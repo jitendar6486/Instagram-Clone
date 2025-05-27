@@ -17,7 +17,21 @@ This is a simple **Instagram Clone UI** built using **HTML**, **CSS**, and **Jav
 ## 🗂️ Project Structure
 
 📁 instagram-clone
-┣ 📄 index.html
-┣ 📄 style.css
-┣ 📄 script.js
-┗ 📄 README.md
+ 📄 index.html
+ 📄 style.css
+ 📄 script.js
+ 📄 README.md
+
+ 🚀 How to Run the Project
+ Clone the repository:
+git clone https://github.com/your-username/instagram-clone.git
+Open the folder:
+cd instagram-clone
+Launch the index.html file in your browser:
+open index.html
+✅ Conclusion
+This project demonstrates how to create a minimal Instagram-like interface with just HTML, CSS, and JavaScript. It's perfect for beginners exploring front-end development and DOM manipulation.
+
+
+
+
