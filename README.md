@@ -24,13 +24,6 @@ This is a simple **Instagram Clone UI** built using **HTML**, **CSS**, and **Jav
 
 
 
-
-
-
-
-
----
-
 ## 📌 Steps You Followed
 
 1. **Created `index.html` file:**
