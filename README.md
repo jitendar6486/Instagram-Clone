@@ -13,12 +13,15 @@ This is a simple **Instagram Clone UI** built using **HTML**, **CSS**, and **Jav
 - 📱 Responsive design for desktop and mobile
 
 ---
+
+
 ## 🗂️ Project Structure
 📦 instagram-clone
  ┣ 📄 index.html
  ┣ 📄 style.css
  ┣ 📄 script.js
  ┣ 📄 README.md
+
 
 
 
