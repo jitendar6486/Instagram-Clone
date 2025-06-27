@@ -2,8 +2,6 @@
 
 This is a simple **Instagram Clone UI** built using **HTML**, **CSS**, and **JavaScript**. It mimics the layout and feel of Instagram, with a working **dark mode toggle** and responsive design.
 
----
-
 ## 🎯 Features
 
 - 🌓 Toggle between Light and Dark mode
@@ -12,17 +10,12 @@ This is a simple **Instagram Clone UI** built using **HTML**, **CSS**, and **Jav
 - ⚡ Pure front-end (no frameworks or libraries)
 - 📱 Responsive design for desktop and mobile
 
----
-
-
 ## 🗂️ Project Structure
 📦 instagram-clone
  ┣ 📄 index.html
  ┣ 📄 style.css
  ┣ 📄 script.js
  ┣ 📄 README.md
-
-
 
 ## 📌 Steps You Followed
 
@@ -52,35 +45,21 @@ This is a simple **Instagram Clone UI** built using **HTML**, **CSS**, and **Jav
    * Ensured layout adapts well to mobile, tablet, and desktop screens.
    * Verified dark mode toggle and other interactive elements work seamlessly.
 
----
-
-
----
-
 ## How to Run Locally
 
 1. **Clone the repository:**
-
-```bash
 git clone https://github.com/your-username/instagram-clone.git
-```
 
 2. **Open the project folder and launch `index.html` in your browser:**
 
 * You can simply double-click the `index.html` file,
 * or right-click and choose **Open with** your preferred browser.
 
----
-
-
-
----
-
 ## ✅ Conclusion
 
 This Instagram Clone project demonstrates how to build a modern, responsive social media interface using **HTML**, **CSS**, and **JavaScript**. It showcases key front-end concepts like layout design, theming with dark mode, responsive styling, and interactive UI elements. This project is a great way to practice building clean, user-friendly web apps with a focus on usability and design.
 
----
+
 
 
 
